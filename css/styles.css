@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #f2f2f2;
+    font-size: 15px;
+    background-position: 0px 0px;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parte {
+	background-color: #fff;
+}
+
+header div {
+	color: #fff; /*fuente*/
+	background-color:#1a1847; /*fondo*/
+	text-align:center; /*centralo*/
+}
+	
+.datosPersonales {
+    margin-top: 20px;
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+
+.minombre{
+	font-size: 22px;
+	font-weight:bold;
+}
+
+.modal-dialog {
+	max-width:370px; /*sobreescribo el ancho*/
+}
